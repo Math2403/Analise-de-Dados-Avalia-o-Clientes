@@ -22,9 +22,11 @@ Com as duas imagens acima, foi possível perceber que há dois funcionários com
 Com as duas análises acima é possível pensar em possibilidades de demissões, promoções e treinamentos.
 
 Maior tempo de resposta:
+
 ![Captura de Tela (58)](https://github.com/Math2403/Analise-de-Dados-Avalia-o-Clientes/assets/159629879/8d0cccd1-9d4d-45c0-a565-f88b16e9b987)
 
 Menor tempo de resposta:
+
 ![Captura de Tela (59)](https://github.com/Math2403/Analise-de-Dados-Avalia-o-Clientes/assets/159629879/6da2f708-7941-401a-8b3e-bb35a6a49b94)
 
 Os funcionários com mais avaliações positivas e negativas não parecem ter relação com o tempo de resposta.
